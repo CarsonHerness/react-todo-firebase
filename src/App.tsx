@@ -8,7 +8,7 @@ import "./App.scss";
 function App() {
   return (
     <div className="App">
-      <Container className="conatiner" maxWidth="sm">
+      <Container className="container" maxWidth="sm">
         <Card>
           <CardContent>
             <h3>Simple TODO App</h3>
